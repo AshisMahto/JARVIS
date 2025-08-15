@@ -1,0 +1,5 @@
+WOLFRAM_APP_ID = https://www.wolframalpha.com
+WEATHER_API_KEY = https://openweathermap.org/api  
+NEWS_API_KEY = https://newsapi.org/
+SERPAPI_API_KEY = https://serpapi.com/users/
+OPENROUTER = https://openrouter.ai/settings/keys

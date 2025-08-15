@@ -1,0 +1,35 @@
+# === Core ===
+pyttsx3==2.90
+SpeechRecognition==3.10
+pyaudio==0.2.13
+requests==2.31.0
+
+# === Web & Data APIs ===
+wikipedia==1.4.0
+beautifulsoup4==4.12.3
+lxml==5.2.1
+
+# === PDF Reading ===
+PyPDF2==3.0.1
+
+# === YouTube & Media ===
+pytube==15.0.0
+
+# === System Controls (Windows) ===
+pyautogui==0.9.54
+screen-brightness-control==0.14.0
+
+# === WhatsApp Messaging ===
+pywhatkit==5.4
+
+# === Optional: For AI or LLM Features ===
+openai==1.30.1
+
+# === Optional: For Image/Video Generation via APIs ===
+httpx==0.27.0
+
+# === For Email Sending ===
+secure-smtplib  # Use smtplib (built-in), or optionally secure-smtplib for SSL wrapper
+
+# === (Optional) Misc ===
+python-dotenv==1.0.1  # For managing secrets (if you use .env)

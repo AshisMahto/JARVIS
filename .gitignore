@@ -1,0 +1,57 @@
+# === Python Cache Files ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# === Virtual Environment ===
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+*.env
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === IDE Configurations ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Logs and Dumps ===
+*.log
+*.out
+*.pid
+*.gz
+*.zip
+
+# === Jarvis Specific ===
+# Secrets or configuration files
+config.json
+secrets.json
+contacts.json
+
+# Audio or media recordings
+*.mp3
+*.wav
+*.mp4
+
+# API key placeholders
+api_keys.py
+
+# === OS-specific ===
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+ehthumbs.db
+Icon?
